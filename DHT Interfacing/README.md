@@ -1,1 +1,1 @@
-Interfacing of DHT11 Sensor with Raspberry Pi Pico.
+Interfacing of DHT22 Sensor with Raspberry Pi Pico.
